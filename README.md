@@ -46,11 +46,15 @@
 ---
 
 ## ⭐ Featured Projects
+
 ### 📘 LearnLog – Learning Management System  
 🔗 https://github.com/nikhil-tech21/learnlog  
 
 ### 🤖 Machine Failure Prediction  
 🔗 https://github.com/nikhil-tech21/machinefailureprediction.21  
+
+### 📊 Excel Analytics Platform  
+🔗 https://github.com/nikhil-tech21/Excel-Analytics-Platform  
 
 ---
 
