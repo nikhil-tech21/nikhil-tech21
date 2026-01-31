@@ -48,7 +48,7 @@
 ---
 
 ## 🐍 Snake Contribution Animation
-![Snake](https://github.com/nikhil-tech21/nikhil-tech21/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/nikhil-tech21/nikhil-tech21-github-readme-snake/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
